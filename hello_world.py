@@ -1,0 +1,1 @@
+print("hello world") #Writes the value of the string in the terminal
